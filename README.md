@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab ](https://github.com/Shaun-Simon/ActiveDirectoryHomeLab)
+- [File Integrity Monitor](https://github.com/Shaun-Simon/FileIntegrityMonitor)
 
 <h2> 🤳 Connect with me:</h2>
 
